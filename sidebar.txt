@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[txt:home|Door43 (txt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-txt|d43-txt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-txt/archive/master.zip|d43-txt.zip]]
+
+**Recent Changes**
+{{changes>ns = txt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/txt|Ethnologue data]]
+
